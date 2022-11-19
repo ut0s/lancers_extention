@@ -1,0 +1,10 @@
+# https://favicon.io/favicon-generator/
+Text :: L
+Background :: Rounded
+Font Family :: Leckerli One
+Font Variant :: Regular 400 Normal
+Font Size :: 150
+Font Color :: #FFF
+Background Color :: #b3d4fc
+
+# https://genfavicon.com/
