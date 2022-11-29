@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "Lancers.jp 画面変更",
   "description": "Lancers.jp の画面を拡張/変更する拡張機能になります｡",
   "permissions": ["scripting"],
